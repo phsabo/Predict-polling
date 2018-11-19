@@ -11,6 +11,7 @@ Simples e de pouca necessidade de hardware, não necessita de sincronismo (sched
 - Nó utilizado para implementação:
 https://github.com/phsabo/NodePHS/wiki
 
+- Necessário a biblioteca https://github.com/nRF24/RF24 para integração com o módulo de rádio nRF24l01+
 
 - Implementação de polling tradicional Round-Robin para Arduino e Raspberry Pi.
 --  Para módulo nRF24l01+
