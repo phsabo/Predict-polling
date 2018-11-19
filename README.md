@@ -8,6 +8,10 @@
 
 Simples e de pouca necessidade de hardware, não necessita de sincronismo (schedule) e a prova de colisões. Este protocolo de acesso ao meio garante pouco tempo de uso do rádio provendo grande economia de energia.
 
+- Nó utilizado para implementação:
+https://github.com/phsabo/NodePHS/wiki
+
+
 - Implementação de polling tradicional Round-Robin para Arduino e Raspberry Pi.
 --  Para módulo nRF24l01+
 
