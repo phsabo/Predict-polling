@@ -1,10 +1,10 @@
 # Predict polling
 
-## Predict Polling System MAC
+## Predict Polling System to Medium access control (MAC)
 
 ### Paulo Henrique Sabo UTFPR-CM/UNICAMP
 
-- Protocolo de acesso ao meio sem fio baseado em técnica de polling.
+- Protocolo de acesso ao meio (MAC) sem fio baseado em técnica de polling.
 
 Simples e de pouca necessidade de hardware, não necessita de sincronismo (schedule) e a prova de colisões. Este protocolo de acesso ao meio garante pouco tempo de uso do rádio, em comparação com CSMA/CA, provendo grande economia de energia. De grande utilidade em dispositivos alimentados por bateria.
 
