@@ -13,7 +13,7 @@ https://github.com/phsabo/NodePHS/wiki
 
 - Necessário a biblioteca https://github.com/nRF24/RF24 para integração com o módulo de rádio nRF24l01+
 
-- Implementação de polling tradicional Round-Robin para Arduino e Raspberry Pi.
+- Implementação de polling tradicional cíclico para Arduino e Raspberry Pi.
 --  Para módulo nRF24l01+
 
 - Implementação de Predict polling para Raspberry Pi
